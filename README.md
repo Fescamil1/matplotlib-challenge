@@ -38,3 +38,14 @@ Python code uses Pandas and Matplotlib libraries to analyze real-world situation
 #### Scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen:
 
 ![image-20210522073059423](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210522073059423.png)
+
+![image-20210522081715323](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210522081715323.png)
+
+
+
+### OBSERVATIONS
+
+* Although Capomulin and Ramicane results seem to be quite close, mice treated with Capomulin had tumor volumes that were not significantly smaller than Ramicane. One could believe both treatments could yield the same results. On the other hand Capomulin, did perform significantly better than Infubinol and Ceftaminand. 
+* The results of the study can be considered reliable as it was very consistent. The percentage of female to male mice was almost identical. At the same time, each of Drug Regimens had about the same number of mice per drug. At the same time there was only one outlier in the subset of data. 
+* Based on the Mouse Weight vs Average Tumor Volume tables, it is noticeable that the heavier mice had large tumors. This could lead one to believe the treatment (Drug Regimen) loses it's efficiency as the on larger mice. The linear regression seems to support this assumption.
+
