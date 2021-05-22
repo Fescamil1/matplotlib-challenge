@@ -23,7 +23,7 @@ Python code uses Pandas and Matplotlib libraries to analyze real-world situation
 
 #### Using Matplotlib, generate a box and whisker plot of the final tumor volume for four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftaminand. Highlight any potential outliers in the plot by changing their color and style
 
-![image-20210522064304609](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210522064304609.png)
+#### ![image-20210522064304609](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210522064304609.png)
 
 
 
@@ -33,3 +33,8 @@ Python code uses Pandas and Matplotlib libraries to analyze real-world situation
 
 ![image-20210522070251494](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210522070251494.png)
 
+
+
+#### Scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen:
+
+![image-20210522073059423](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210522073059423.png)
